@@ -2,11 +2,7 @@
 
 ----
 
-
-
 This is a personal repository with materials, notes, exercises of Snowflake.
-
-
 
 Followed Materials
 
@@ -18,12 +14,8 @@ Followed Materials
 
 - Snowflake Definitive Guide
 
-
-
 -----
 
 **Udemy Certification**
 
-![](/home/ashrulochan/Downloads/LearnSnowflake/UC-96d032c8-9b9f-4b84-b08c-e508a669c0cb.jpg)
-
-
+![](UC-96d032c8-9b9f-4b84-b08c-e508a669c0cb.jpg)
