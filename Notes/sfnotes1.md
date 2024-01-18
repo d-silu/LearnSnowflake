@@ -42,8 +42,6 @@ Resource monitors are particularly helpful for cost control. You can:
 - **Leverage cost management tools:** Utilize third-party tools for deeper cost analysis and optimization recommendations.
 - **Educate users:** Encourage responsible warehouse usage among your team.
 
-
-
 ### **What are Micro-partitions?**
 
 Imagine organizing your bookshelves not just by genre but by specific author and publication date. Micro-partitions work similarly within a Snowflake table. Instead of dumping all data into one giant pile, Snowflake automatically divides it into smaller, contiguous units called micro-partitions. Each micro-partition holds a specific range of rows based on the data's arrival order.
@@ -68,8 +66,6 @@ Imagine organizing your bookshelves not just by genre but by specific author and
 - **Clustering:** While micro-partitions order data in arrival order, you can explicitly define column-based clustering for even faster access based on specific queries.
 - **Monitoring:** Track micro-partition sizes and analyze their impact on query performance to optimize workloads and storage costs.
 - **Data Skew:** Uneven data distribution across micro-partitions can hinder performance. Reclustering can address this by rearranging data to balance micro-partition sizes.
-
-
 
 ### Query History and Caching in Snowflake: Unlocking Data Efficiency
 
