@@ -9,6 +9,8 @@
    - Storage Layer
 
 2. Which of the three Snowflake layers are multitenant?
+   
+   _Ans_: Snowflake <u>cloud services layer</u> and the <u>data storage layer</u> are multitenant.
 
 3. In which of the three Snowflake architecture layers will you find the
    virtual warehouse cache? The result cache?
@@ -32,4 +34,4 @@
    multicluster virtual warehouses?
 
 10. What are two options to change the virtual warehouse that will be used
-    to run a SQL command within a specific worksheet?
+    to run a SQL command within a specific worksheet
