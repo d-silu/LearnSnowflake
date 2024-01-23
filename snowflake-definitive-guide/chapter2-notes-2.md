@@ -172,8 +172,6 @@
   
   - Each data cache is specific to the virtual warehouse.
 
-
-
 **Difference between Scale Out/In/Up/Down**
 
 - **Scale Out**:

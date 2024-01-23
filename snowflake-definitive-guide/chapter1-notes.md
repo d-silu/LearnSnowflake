@@ -70,6 +70,8 @@
 
 - **2022** - Snowflake introduced <u>*Security Data Lake* to empower cybersecurity work loads</u> reducing the dependancy on SIEM tools.
 
+- **June 2022**: Snowflake introduced <u>Materialized tables</u>.
+
 **Snowsight Preference**
 
 - Snowflake Support is available from within the User menu.
