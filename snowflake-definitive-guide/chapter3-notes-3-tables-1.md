@@ -18,7 +18,7 @@
 
 - Hybrid tables support the new Unistore workload.
 
-- Snowflake temporary tables only exist within the session in which they were created and are frequently used for storing transiory data such as ETL data.
+- Snowflake temporary tables only exist within the session in which they were created and are frequently used for storing transitory data such as ETL data.
 
 - Snowflake External tables gives the ability to directly process or query the data that exists elsewhere without ingesting it into Snowflake, including data that lives in a data lake.
 
@@ -54,7 +54,7 @@
    
    - *Use*
      
-     - Store intermediate data generated during calculations or transfromations.
+     - Store intermediate data generated during calculations or transformations.
      
      - Useful for quick data manipulating within a single session.
      
@@ -82,7 +82,7 @@
      
      - Do not support Time Travel or Fail-Safe like permanent tables.
      
-     - Limited availability byond the retention period.
+     - Limited availability beyond the retention period.
      
      - Not ideal for long-term data sharing or archiving.
 
@@ -118,7 +118,7 @@
      
      - Increased storage costs compared to base tables due to data redundancy.
      
-     - Requires maintenance to keep them sychronzied with changes in base data.
+     - Requires maintenance to keep them synchronized with changes in base data.
      
      - Not suitable for infrequently used of highly-mutable data.
 
@@ -139,5 +139,3 @@
      - Not a complete replacement for traditional OLTP databases due to differences in features and architecture.
      
      - May hae different pricing and resource management than standard Snowflake tables.
-
- 
