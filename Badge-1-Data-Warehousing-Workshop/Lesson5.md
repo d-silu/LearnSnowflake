@@ -27,3 +27,6 @@ has four configuration settings thatvare saved with the worksheet and are called
 
 - Opposite of scalling out is Snapping Back or scalling in.
 
+- The word "metadata" means "data about data."
+
+- The INFORMATION_SCHEMA that gets created in every Snowflake Database holds metadata. In other words, it holds statistics about the number of databases, schemas, tables, views and more. It also holds data about the object names and other object details. 
