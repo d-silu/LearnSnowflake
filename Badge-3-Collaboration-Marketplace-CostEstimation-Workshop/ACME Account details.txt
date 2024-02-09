@@ -1,0 +1,22 @@
+Account details
+Account Name
+ACME
+Account URL
+https://maibaga-acme.snowflakecomputing.com
+Account Locator
+LH91748
+Account Locator URL
+https://lh91748.canada-central.azure.snowflakecomputing.com
+Edition
+Enterprise
+Cloud
+Microsoft Azure
+Region
+Canada Central (Toronto)
+Admin login
+Admin User Name
+ACME_ADMIN
+Admin Email Address
+dsilu803@gmail.com
+
+pwd: Las5:9!p67G5e7P
