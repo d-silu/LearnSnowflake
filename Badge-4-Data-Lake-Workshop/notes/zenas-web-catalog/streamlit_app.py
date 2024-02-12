@@ -42,6 +42,6 @@ streamlit.image(
     caption=product_caption
 )
 
-streamlit.write(f'Price: {df2[1]}')
+streamlit.write(f'Price: $ {df2[1]}')
 streamlit.write(f"Sizes Available: ", df2[2])
 streamlit.write(df2[3])
