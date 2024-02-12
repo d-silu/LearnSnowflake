@@ -1,0 +1,1 @@
+- A Select Star (`SELECT *`) is a way to ask for all columns in the table, without having to list them one by one. 
