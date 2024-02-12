@@ -1,2 +1,2 @@
 snowflake-connector-python==3.7.0
-cffi==1.15.0
+cffi==1.16.0
