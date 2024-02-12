@@ -14,6 +14,13 @@ Followed Materials
 
 - Snowflake Definitive Guide
 
+
+-----
+
+**Snowflake Badges**
+
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/94115638"><img src="./Badge-1-Data-Warehousing-Workshop/images/4011cf6e-66e6-4480-9172-7255b950db27.png" width=160 height=170></a> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/94566321"><img src="./Badge-3-Collaboration-Marketplace-CostEstimation-Workshop/images/654b60da-8afa-4aa4-9faf-a23e759abb4b.png" width=160 height=170></a>
+
 -----
 
 **Udemy Certification**
